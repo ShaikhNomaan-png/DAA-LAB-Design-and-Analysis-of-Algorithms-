@@ -2,14 +2,13 @@
 This repository contains programs, notes, and examples for Design and Analysis of Algorithms (DAA). It covers key techniques such as divide and conquer, greedy, dynamic programming, backtracking, and graph algorithms, with clear implementations and explanations for learning and placement preparation.
 
 
-![DAA Banner](https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=1200&q=80)
+ ![DAA Banner](https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=1200&q=80)
 
-# 📚 DAA-LAB: Design and Analysis of Algorithms
+# 📚 DAA-LAB: Design and Analysis of Algorithms (Java Resources)
 
-> Comprehensive resources for mastering algorithmic problem solving, from theoretical foundations to practical implementation.
+> Comprehensive resources for mastering algorithmic problem solving, from theoretical foundations to practical implementation in Java.
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
-![C++](https://img.shields.io/badge/C++-Language-blue?logo=c++)
+![Java](https://img.shields.io/badge/Java-8+-red?logo=java)
 ![Academic](https://img.shields.io/badge/Academic-Resource-lightgrey)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-important?logo=github)
 
@@ -17,7 +16,7 @@ This repository contains programs, notes, and examples for Design and Analysis o
 
 ## 🚀 Overview
 
-This repository contains a curated collection of programs, notes, examples, and lab assignments for the course **Design and Analysis of Algorithms (DAA)**. It covers a wide range of algorithmic techniques, including:
+This repository contains a curated collection of Java programs, notes, examples, and lab assignments for **Design and Analysis of Algorithms (DAA)**. It covers a wide range of algorithmic techniques, including:
 
 - Divide and Conquer
 - Greedy Algorithms
@@ -26,24 +25,23 @@ This repository contains a curated collection of programs, notes, examples, and 
 - Branch and Bound
 - Graph Algorithms
 
-The repository serves as a complete reference for students, educators, and professionals seeking to understand the theoretical underpinnings and practical applications of algorithms.
+The repository serves as a reference for students, educators, and anyone interested in learning algorithmic techniques using Java.
 
 ---
 
 ## 📚 Contents
 
-- **Programs:** Well-commented code samples and lab solutions in Python and C++.
+- **Programs:** Well-commented Java code samples and lab solutions.
 - **Notes:** Concise explanations, theoretical summaries, and cheat sheets.
-- **Examples:** Step-by-step walkthroughs of important algorithms.
+- **Examples:** Step-by-step walkthroughs of important algorithms in Java.
 - **Assignments:** Sample problems and solutions for hands-on learning.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Languages:** Python, C++
-- **Tools:** Jupyter Notebook, GCC/G++, VS Code, PyCharm
-- **Visualization:** Graph plotting libraries for algorithm analysis (e.g., matplotlib)
+- **Language:** Java (8+)
+- **Tools:** Eclipse, IntelliJ IDEA, VS Code
 
 ---
 
@@ -62,8 +60,8 @@ The repository serves as a complete reference for students, educators, and profe
 
 - Understand algorithm design strategies and their trade-offs.
 - Analyze time and space complexity (Big O notation).
-- Implement efficient solutions to classical problems.
-- Develop skills for competitive programming and software engineering interviews.
+- Implement efficient solutions to classical problems in Java.
+- Build foundational skills for competitive programming and software engineering interviews.
 
 ---
 
@@ -74,7 +72,7 @@ The repository serves as a complete reference for students, educators, and profe
    git clone https://github.com/ShaikhNomaan-png/DAA-LAB-Design-and-Analysis-of-Algorithms-.git
    ```
 2. **Navigate to the desired topic folder.**
-3. **Run the code examples in your preferred IDE or terminal.**
+3. **Open the Java code examples in your preferred IDE.**
 4. **Review the notes and theory for conceptual understanding.**
 
 ---
@@ -87,17 +85,17 @@ The repository serves as a complete reference for students, educators, and profe
 
 ## 🔮 Future Enhancements
 
-- Interactive algorithm visualizations
+- Interactive algorithm visualizations (Java-based)
 - More real-world problem statements and case studies
 - Practice quizzes and interview questions
-- Contributions from the community
+- Community contributions (Java only)
 
 ---
 
 ## 🤝 Contributing
 
 Contributions are welcome!  
-- Add new algorithm examples, notes, or solutions.
+- Add new Java algorithm examples, notes, or solutions.
 - Improve documentation and explanations.
 - Submit pull requests for code improvements.
 
@@ -118,4 +116,4 @@ Distributed under the "Other" license. See `LICENSE` for more information.
 
 ---
 
-> *Empowering students and developers to master the art of algorithms!*
+> *Master the art of algorithms in Java!*
